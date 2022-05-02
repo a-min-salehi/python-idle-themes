@@ -1,7 +1,9 @@
 # python-idle-themes
 
-Go to the .idlerc folder(on my pc it's location is: 'C:\Users\ (MY_PC_NAME )\ .idlerc',
-and copy-paste  'config-highlight.cfg' file there , or you can add the syntax codes to your 'config-highlight.cfg' file , if you have it .
+download '<a href='https://raw.githubusercontent.com/a-min-salehi/python-idle-themes/main/config-highlight.cfg'>config-highlight.cfg</a>' file<br>
+Go to the .idlerc folder(on my pc it's location is: 'C:\Users\ (MY_PC_NAME )\ .idlerc' <br>
+and put '<a href='https://raw.githubusercontent.com/a-min-salehi/python-idle-themes/main/config-highlight.cfg'>config-highlight.cfg</a>' file there .<br>
+( or you can add the syntax codes to your 'config-highlight.cfg' file , if you have it . )
 
 <h2>custom idle dark themes </h2>
 
