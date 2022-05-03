@@ -11,7 +11,7 @@ and put '<a href='https://raw.githubusercontent.com/a-min-salehi/python-idle-the
 included :
 
 1.[monokai] -- its different from other monokai  published themes (I perfer it)<br>
-2.[tehran drifft]- my favorite personal theme
+2.[tehran night]- my favorite personal theme
 
 
 To apply themes, open 'Idle->Options->Configure IDLE->Highlighting'
